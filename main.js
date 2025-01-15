@@ -13,5 +13,5 @@ document.getElementById('meuBotao').addEventListener('click', function() {
         } else {
             clearInterval(intervalo);
         }
-    }, 100); // Intervalo de 200ms entre cada letra
+    }, 200); // Intervalo de 200ms entre cada letra
 });
